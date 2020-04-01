@@ -1,0 +1,808 @@
+World:
+  - Date: 2020-04-01
+    Confirmed: 860793
+    Deaths: 42354
+    Recovered: 178359
+    Existing: 640080
+  - Date: 2020-03-31
+    Confirmed: 787010
+    Deaths: 37829
+    Recovered: 166276
+    Existing: 536391
+  - Date: 2020-03-30
+    Confirmed: 722289
+    Deaths: 33997
+    Recovered: 151901
+    Existing: 536391
+  - Date: 2020-03-27
+    Confirmed: 532692
+    Deaths: 24075
+    Recovered: 122672
+    Existing: 385945
+  - Date: 2020-03-26
+    Confirmed: 471783
+    Deaths: 21306
+    Recovered: 114858
+    Existing: 335619
+  - Date: 2020-03-25
+    Confirmed: 423670
+    Deaths: 18923
+    Recovered: 108629
+    Existing: 296118
+  - Date: 2020-03-24
+    Confirmed: 383944
+    Deaths: 16595
+    Recovered: 101911
+    Existing: 265438
+  - Date: 2020-03-23
+    Confirmed: 341722
+    Deaths: 14790
+    Recovered: 98869
+    Existing: 228063
+  - Date: 2020-03-20
+    Confirmed: 244553
+    Deaths: 10031
+    Recovered: 86032
+    Existing: 148490
+  - Date: 2020-03-19
+    Confirmed: 218827
+    Deaths: 8811
+    Recovered: 84121
+    Existing: 125895
+  - Date: 2020-03-18
+    Confirmed: 198193
+    Deaths: 7954
+    Recovered: 81961
+    Existing: 108278
+  - Date: 2020-03-17
+    Confirmed: 182424
+    Deaths: 7155
+    Recovered: 79433
+    Existing: 95836
+  - Date: 2020-03-16
+    Confirmed: 169387
+    Deaths: 6513
+    Recovered: 77257
+    Existing: 85617
+  - Date: 2020-03-12
+    Confirmed: 126660
+    Deaths: 4641
+    Recovered: 68305
+    Existing: 53714
+  - Date: 2020-03-11
+    Confirmed: 119476
+    Deaths: 4291
+    Recovered: 65900
+    Existing: 49285
+  - Date: 2020-03-10
+    Confirmed: 114544
+    Deaths: 4026
+    Recovered: 64034
+    Existing: 46484
+  - Date: 2020-03-09
+    Confirmed: 110588
+    Deaths: 3841
+    Recovered: 62109
+    Existing: 44638
+  - Date: 2020-03-06
+    Confirmed: 98698
+    Deaths: 3383
+    Recovered: 55444
+    Existing: 39871
+  - Date: 2020-03-05
+    Confirmed: 96717
+    Deaths: 3303
+    Recovered: 53610
+    Existing: 39804
+  - Date: 2020-03-04
+    Confirmed: 93455
+    Deaths: 3198
+    Recovered: 50743
+    Existing: 39514
+  - Date: 2020-03-03
+    Confirmed: 91313
+    Deaths: 3118
+    Recovered: 48128
+    Existing: 40067
+  - Date: 2020-03-02
+    Confirmed: 89197
+    Deaths: 3048
+    Recovered: 45110
+    Existing: 41039
+  - Date: 2020-02-28
+    Confirmed: 83704
+    Deaths: 2859
+    Recovered: 36654
+    Existing: 44191
+  - Date: 2020-02-27
+    Confirmed: 82170
+    Deaths: 2804
+    Recovered: 32898
+    Existing: 46468    
+Country:
+  UK:
+    - Date: 2020-04-01
+      Confirmed: 25481
+      Deaths: 1793
+      Recovered: 179
+      Existing: 23509
+    - Date: 2020-03-31
+      Confirmed: 22454 
+      Deaths: 1412
+      Recovered: 171
+      Existing: 20871
+    - Date: 2020-03-30
+      Confirmed: 19784
+      Deaths: 1231
+      Recovered: 151
+      Existing: 18402
+    - Date: 2020-03-27
+      Confirmed: 11658
+      Deaths: 578
+      Recovered: 135
+      Existing: 10945
+    - Date: 2020-03-26
+      Confirmed: 9529
+      Deaths: 465
+      Recovered: 135
+      Existing: 8929
+    - Date: 2020-03-25
+      Confirmed: 8077
+      Deaths: 422
+      Recovered: 135
+      Existing: 7520
+    - Date: 2020-03-24
+      Confirmed: 6650
+      Deaths: 335
+      Recovered: 135
+      Existing: 6180
+    - Date: 2020-03-23
+      Confirmed: 5683
+      Deaths: 281
+      Recovered: 135
+      Existing: 5267
+    - Date: 2020-03-20
+      Confirmed: 2689
+      Deaths: 137
+      Recovered: 65
+      Existing: 2487
+    - Date: 2020-03-19
+      Confirmed: 2626
+      Deaths: 71
+      Recovered: 65
+      Existing: 2490
+    - Date: 2020-03-18
+      Confirmed: 1950
+      Deaths: 71
+      Recovered: 65
+      Existing: 1814
+    - Date: 2020-03-17
+      Confirmed: 1543
+      Deaths: 55
+      Recovered: 52
+      Existing: 1436
+    - Date: 2020-03-16
+      Confirmed: 1391
+      Deaths: 35
+      Recovered: 20
+      Existing: 1336
+    - Date: 2020-03-13
+      Confirmed: 590
+      Deaths: 8
+      Recovered: 18
+      Existing: 564
+    - Date: 2020-03-12
+      Confirmed: 456
+      Deaths: 8
+      Recovered: 18
+      Existing: 430
+    - Date: 2020-03-11
+      Confirmed: 382
+      Deaths: 6
+      Recovered: 18
+      Existing: 358
+    - Date: 2020-03-10
+      Confirmed: 321
+      Deaths: 5
+      Recovered: 18
+      Existing: 298
+    - Date: 2020-03-09
+      Confirmed: 280
+      Deaths: 3
+      Recovered: 18
+      Existing: 259
+    - Date: 2020-03-06
+      Confirmed: 116
+      Deaths: 1
+      Recovered: 8
+      Existing: 107
+    - Date: 2020-03-05
+      Confirmed: 90
+      Deaths: 0
+      Recovered: 8
+      Existing: 82
+    - Date: 2020-03-04
+      Confirmed: 51
+      Deaths: 0
+      Recovered: 8
+      Existing: 43
+    - Date: 2020-03-03
+      Confirmed: 40
+      Deaths: 0
+      Recovered: 8
+      Existing: 32
+    - Date: 2020-03-02
+      Confirmed: 36
+      Deaths: 0
+      Recovered: 8
+      Existing: 28
+    - Date: 2020-02-28
+      Confirmed: 19
+      Deaths: 0
+      Recovered: 8
+      Existing: 11
+    - Date: 2020-02-27
+      Confirmed: 13
+      Deaths: 0
+      Recovered: 8
+      Existing: 5
+  Netherlands:
+    - Date: 2020-04-01
+      Confirmed: 12667
+      Deaths: 1040
+      Recovered: 253
+      Existing: 11374
+    - Date: 2020-03-31
+      Confirmed: 11817
+      Deaths: 865
+      Recovered: 253
+      Existing: 10699
+    - Date: 2020-03-30
+      Confirmed: 10930
+      Deaths: 772
+      Recovered: 253
+      Existing: 9905
+    - Date: 2020-03-27
+      Confirmed: 7431
+      Deaths: 434
+      Recovered: 3
+      Existing: 6994
+    - Date: 2020-03-26
+      Confirmed: 6412
+      Deaths: 356
+      Recovered: 3
+      Existing: 6053
+    - Date: 2020-03-25
+      Confirmed: 5560
+      Deaths: 276
+      Recovered: 2
+      Existing: 5282
+    - Date: 2020-03-24
+      Confirmed: 4749
+      Deaths: 213
+      Recovered: 2
+      Existing: 4534
+    - Date: 2020-03-23
+      Confirmed: 4204
+      Deaths: 179
+      Recovered: 2
+      Existing: 4023
+    - Date: 2020-03-20
+      Confirmed: 2460
+      Deaths: 76
+      Recovered: 2
+      Existing: 2382
+    - Date: 2020-03-19
+      Confirmed: 2051
+      Deaths: 58
+      Recovered: 2
+      Existing: 1991
+    - Date: 2020-03-18
+      Confirmed: 1705
+      Deaths: 43
+      Recovered: 2
+      Existing: 1660
+    - Date: 2020-03-17
+      Confirmed: 1413
+      Deaths: 24
+      Recovered: 2
+      Existing: 1387
+    - Date: 2020-03-16
+      Confirmed: 1135
+      Deaths: 20
+      Recovered: 2
+      Existing: 1113
+    - Date: 2020-03-13
+      Confirmed: 614
+      Deaths: 5
+      Recovered: 0
+      Existing: 609
+    - Date: 2020-03-12
+      Confirmed: 503
+      Deaths: 5
+      Recovered: 0
+      Existing: 498
+    - Date: 2020-03-11
+      Confirmed: 382
+      Deaths: 4
+      Recovered: 0
+      Existing: 378
+    - Date: 2020-03-10
+      Confirmed: 321
+      Deaths: 4
+      Recovered: 0
+      Existing: 317
+    - Date: 2020-03-09
+      Confirmed: 265
+      Deaths: 3
+      Recovered: 0
+      Existing: 262
+    - Date: 2020-03-06
+      Confirmed: 82
+      Deaths: 0
+      Recovered: 0
+      Existing: 82
+    - Date: 2020-03-05
+      Confirmed: 38
+      Deaths: 0
+      Recovered: 0
+      Existing: 38
+    - Date: 2020-03-04
+      Confirmed: 24
+      Deaths: 0
+      Recovered: 0
+      Existing: 24
+    - Date: 2020-03-03
+      Confirmed: 18
+      Deaths: 0
+      Recovered: 0
+      Existing: 18
+    - Date: 2020-03-02
+      Confirmed: 10
+      Deaths: 0
+      Recovered: 0
+      Existing: 10
+    - Date: 2020-02-28
+      Confirmed: 1
+      Deaths: 0
+      Recovered: 0
+      Existing: 1
+  Italy:
+    - Date: 2020-04-01
+      Confirmed: 105792
+      Deaths: 12428
+      Recovered: 15729
+      Existing: 77635
+    - Date: 2020-03-31
+      Confirmed: 101739
+      Deaths: 11591
+      Recovered: 14620
+      Existing: 75528
+    - Date: 2020-03-30
+      Confirmed: 97689
+      Deaths: 10779
+      Recovered: 13030
+      Existing: 73880
+    - Date: 2020-03-27
+      Confirmed: 80589
+      Deaths: 8215
+      Recovered: 10361
+      Existing: 62013
+    - Date: 2020-03-26
+      Confirmed: 74386
+      Deaths: 7503
+      Recovered: 9362
+      Existing: 57521
+    - Date: 2020-03-25
+      Confirmed: 69176
+      Deaths: 6820
+      Recovered: 8326
+      Existing: 54030
+    - Date: 2020-03-24
+      Confirmed: 63927
+      Deaths: 6077
+      Recovered: 7432
+      Existing: 50418
+    - Date: 2020-03-23
+      Confirmed: 59138
+      Deaths: 5476
+      Recovered: 7024
+      Existing: 46638
+    - Date: 2020-03-20
+      Confirmed: 41035
+      Deaths: 3405
+      Recovered: 4440
+      Existing: 33190
+    - Date: 2020-03-19
+      Confirmed: 35713
+      Deaths: 2978
+      Recovered: 4025
+      Existing: 28710
+    - Date: 2020-03-18
+      Confirmed: 31506
+      Deaths: 2503
+      Recovered: 2941
+      Existing: 26062
+    - Date: 2020-03-17
+      Confirmed: 27980
+      Deaths: 2158
+      Recovered: 2749
+      Existing: 23073
+    - Date: 2020-03-16
+      Confirmed: 24747
+      Deaths: 1809
+      Recovered: 2335
+      Existing: 20603
+  Japan:
+    - Date: 2020-04-01
+      Confirmed: 2178
+      Deaths: 57
+      Recovered: 424 
+      Existing: 1697
+    - Date: 2020-03-31
+      Confirmed: 1953
+      Deaths: 56
+      Recovered: 424
+      Existing: 1473
+    - Date: 2020-03-30
+      Confirmed: 1866
+      Deaths: 54
+      Recovered: 424
+      Existing: 1388
+    - Date: 2020-03-27
+      Confirmed: 1387
+      Deaths: 47
+      Recovered: 359
+      Existing: 981
+    - Date: 2020-03-26
+      Confirmed: 1307
+      Deaths: 45
+      Recovered: 310
+      Existing: 952
+    - Date: 2020-03-25
+      Confirmed: 1193
+      Deaths: 43
+      Recovered: 285
+      Existing: 865
+    - Date: 2020-03-24
+      Confirmed: 1140
+      Deaths: 42
+      Recovered: 285
+      Existing: 813
+    - Date: 2020-03-23
+      Confirmed: 1101
+      Deaths: 41
+      Recovered: 235
+      Existing: 825
+    - Date: 2020-03-20
+      Confirmed: 943
+      Deaths: 33
+      Recovered: 191
+      Existing: 719
+    - Date: 2020-03-19
+      Confirmed: 889
+      Deaths: 29
+      Recovered: 144
+      Existing: 716
+    - Date: 2020-03-18
+      Confirmed: 882
+      Deaths: 29
+      Recovered: 144
+      Existing: 709
+    - Date: 2020-03-17
+      Confirmed: 833
+      Deaths: 27
+      Recovered: 139
+      Existing: 667
+    - Date: 2020-03-16
+      Confirmed: 839
+      Deaths: 22
+      Recovered: 144
+      Existing: 673
+    - Date: 2020-03-13
+      Confirmed: 639
+      Deaths: 16
+      Recovered: 118
+      Existing: 505
+    - Date: 2020-03-12
+      Confirmed: 639
+      Deaths: 16
+      Recovered: 118
+      Existing: 505
+    - Date: 2020-03-11
+      Confirmed: 581
+      Deaths: 12
+      Recovered: 101
+      Existing: 468
+    - Date: 2020-03-10
+      Confirmed: 530
+      Deaths: 9
+      Recovered: 101
+      Existing: 420
+    - Date: 2020-03-09
+      Confirmed: 511
+      Deaths: 17
+      Recovered: 76
+      Existing: 418
+    - Date: 2020-03-06
+      Confirmed: 360
+      Deaths: 6
+      Recovered: 43
+      Existing: 311
+    - Date: 2020-03-05
+      Confirmed: 360
+      Deaths: 6
+      Recovered: 43
+      Existing: 311
+    - Date: 2020-03-04
+      Confirmed: 293
+      Deaths: 6
+      Recovered: 43
+      Existing: 244
+    - Date: 2020-03-03
+      Confirmed: 274
+      Deaths: 6
+      Recovered: 32
+      Existing: 236
+    - Date: 2020-03-02
+      Confirmed: 256
+      Deaths: 6
+      Recovered: 32
+      Existing: 218
+    - Date: 2020-02-28
+      Confirmed: 226
+      Deaths: 4
+      Recovered: 22
+      Existing: 200
+    - Date: 2020-02-27
+      Confirmed: 189
+      Deaths: 3
+      Recovered: 22
+      Existing: 164
+  South Korea:
+    - Date: 2020-04-01
+      Confirmed: 9887
+      Deaths: 165
+      Recovered: 5567
+      Existing: 4155
+    - Date: 2020-03-31
+      Confirmed: 9786
+      Deaths: 162
+      Recovered: 5408
+      Existing: 4216
+    - Date: 2020-03-30
+      Confirmed: 9661
+      Deaths: 158
+      Recovered: 5228
+      Existing: 4275
+    - Date: 2020-03-27
+      Confirmed: 9332
+      Deaths: 139
+      Recovered: 4528
+      Existing: 4665
+    - Date: 2020-03-26
+      Confirmed: 9241
+      Deaths: 131
+      Recovered: 4144
+      Existing: 4966
+    - Date: 2020-03-25
+      Confirmed: 9137
+      Deaths: 126
+      Recovered: 3730
+      Existing: 5281
+    - Date: 2020-03-24
+      Confirmed: 9037
+      Deaths: 120
+      Recovered: 3507
+      Existing: 5410
+    - Date: 2020-03-23
+      Confirmed: 8961
+      Deaths: 111
+      Recovered: 3166
+      Existing: 5684
+    - Date: 2020-03-20
+      Confirmed: 8652
+      Deaths: 94
+      Recovered: 1540
+      Existing: 7018
+    - Date: 2020-03-19
+      Confirmed: 8565
+      Deaths: 91
+      Recovered: 1540
+      Existing: 6934
+    - Date: 2020-03-18
+      Confirmed: 8413
+      Deaths: 84
+      Recovered: 1540
+      Existing: 6789
+    - Date: 2020-03-17
+      Confirmed: 8320
+      Deaths: 75
+      Recovered: 1137
+      Existing: 7108
+    - Date: 2020-03-16
+      Confirmed: 8162
+      Deaths: 75
+      Recovered: 834
+      Existing: 7253
+    - Date: 2020-03-12
+      Confirmed: 7869
+      Deaths: 66
+      Recovered: 333
+      Existing: 7470
+    - Date: 2020-03-11
+      Confirmed: 7755
+      Deaths: 54
+      Recovered: 247
+      Existing: 7454
+    - Date: 2020-03-10
+      Confirmed: 7513
+      Deaths: 54
+      Recovered: 247
+      Existing: 7212
+    - Date: 2020-03-09
+      Confirmed: 7478
+      Deaths: 53
+      Recovered: 118
+      Existing: 7307
+    - Date: 2020-03-06
+      Confirmed: 6593
+      Deaths: 40
+      Recovered: 135
+      Existing: 6418
+    - Date: 2020-03-05
+      Confirmed: 6088
+      Deaths: 35
+      Recovered: 41
+      Existing: 6012
+    - Date: 2020-03-04
+      Confirmed: 5621
+      Deaths: 28
+      Recovered: 41
+      Existing: 5552
+    - Date: 2020-03-03
+      Confirmed: 5186
+      Deaths: 28
+      Recovered: 30
+      Existing: 5128
+    - Date: 2020-03-02
+      Confirmed: 4335
+      Deaths: 26
+      Recovered: 30
+      Existing: 4279
+    - Date: 2020-02-28
+      Confirmed: 2337
+      Deaths: 13
+      Recovered: 22
+      Existing: 2302
+    - Date: 2020-02-27
+      Confirmed: 1766
+      Deaths: 13
+      Recovered: 22
+      Existing: 1731
+  Thailand:
+    - Date: 2020-04-01
+      Confirmed: 1771
+      Deaths: 12
+      Recovered: 342
+      Existing: 1417
+    - Date: 2020-03-31
+      Confirmed: 1651
+      Deaths: 10
+      Recovered: 342
+      Existing: 1299
+    - Date: 2020-03-30
+      Confirmed: 1388
+      Deaths: 7
+      Recovered: 229
+      Existing: 1152
+    - Date: 2020-03-27
+      Confirmed: 1045
+      Deaths: 4
+      Recovered: 88
+      Existing: 953
+    - Date: 2020-03-26
+      Confirmed: 934
+      Deaths: 4
+      Recovered: 70
+      Existing: 860
+    - Date: 2020-03-25
+      Confirmed: 934
+      Deaths: 4
+      Recovered: 52
+      Existing: 878
+    - Date: 2020-03-24
+      Confirmed: 827
+      Deaths: 4
+      Recovered: 52
+      Existing: 771
+    - Date: 2020-03-23
+      Confirmed: 721
+      Deaths: 1
+      Recovered: 52
+      Existing: 668
+    - Date: 2020-03-20
+      Confirmed: 272
+      Deaths: 1
+      Recovered: 42
+      Existing: 229
+    - Date: 2020-03-19
+      Confirmed: 212
+      Deaths: 1
+      Recovered: 42
+      Existing: 169
+    - Date: 2020-03-18
+      Confirmed: 177
+      Deaths: 1
+      Recovered: 41
+      Existing: 135
+    - Date: 2020-03-17
+      Confirmed: 147
+      Deaths: 1
+      Recovered: 35
+      Existing: 111
+    - Date: 2020-03-16
+      Confirmed: 114
+      Deaths: 1
+      Recovered: 35
+      Existing: 78
+    - Date: 2020-03-13
+      Confirmed: 75
+      Deaths: 1
+      Recovered: 34
+      Existing: 40
+    - Date: 2020-03-12
+      Confirmed: 70
+      Deaths: 1
+      Recovered: 34
+      Existing: 35
+    - Date: 2020-03-11
+      Confirmed: 59
+      Deaths: 1
+      Recovered: 34
+      Existing: 24
+    - Date: 2020-03-10
+      Confirmed: 53
+      Deaths: 1
+      Recovered: 33
+      Existing: 19
+    - Date: 2020-03-09
+      Confirmed: 50
+      Deaths: 1
+      Recovered: 31
+      Existing: 18
+    - Date: 2020-03-06
+      Confirmed: 48
+      Deaths: 1
+      Recovered: 31
+      Existing: 16
+    - Date: 2020-03-05
+      Confirmed: 47
+      Deaths: 1
+      Recovered: 31
+      Existing: 15
+    - Date: 2020-03-04
+      Confirmed: 43
+      Deaths: 1
+      Recovered: 31
+      Existing: 11
+    - Date: 2020-03-03
+      Confirmed: 43
+      Deaths: 1
+      Recovered: 31
+      Existing: 11
+    - Date: 2020-03-02
+      Confirmed: 43
+      Deaths: 1
+      Recovered: 31
+      Existing: 11
+    - Date: 2020-02-28
+      Confirmed: 41
+      Deaths: 0
+      Recovered: 28
+      Existing: 13
+    - Date: 2020-02-27
+      Confirmed: 40
+      Deaths: 0
+      Recovered: 22
+      Existing: 18
