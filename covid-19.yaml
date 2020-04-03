@@ -1,4 +1,9 @@
 World:
+  - Date: 2020-04-03
+    Confirmed: 1017693
+    Deaths: 53179
+    Recovered: 212072
+    Existing: 752442
   - Date: 2020-04-02
     Confirmed: 939436
     Deaths: 47287
@@ -126,6 +131,11 @@ World:
     Existing: 46468    
 Country:
   UK:
+    - Date: 2020-04-03
+      Confirmed: 34173
+      Deaths: 2926
+      Recovered: 192
+      Existing: 31055
     - Date: 2020-04-02
       Confirmed: 29865
       Deaths: 2357
@@ -257,6 +267,11 @@ Country:
       Recovered: 8
       Existing: 5
   Netherlands:
+    - Date: 2020-04-03
+      Confirmed: 14788
+      Deaths: 1341
+      Recovered: 260
+      Existing: 13187
     - Date: 2020-04-02
       Confirmed: 13696
       Deaths: 1175
@@ -383,6 +398,11 @@ Country:
       Recovered: 0
       Existing: 1
   Italy:
+    - Date: 2020-04-03
+      Confirmed: 115242
+      Deaths: 13915
+      Recovered: 18278
+      Existing: 83049
     - Date: 2020-04-02
       Confirmed: 110574
       Deaths: 13155
@@ -454,6 +474,11 @@ Country:
       Recovered: 2335
       Existing: 20603
   Japan:
+    - Date: 2020-04-03
+      Confirmed: 2617
+      Deaths: 63
+      Recovered: 472 
+      Existing: 2082
     - Date: 2020-04-02
       Confirmed: 2384
       Deaths: 57
@@ -585,6 +610,11 @@ Country:
       Recovered: 22
       Existing: 164
   South Korea:
+    - Date: 2020-04-03
+      Confirmed: 10062
+      Deaths: 174
+      Recovered: 6021
+      Existing: 3867
     - Date: 2020-04-02
       Confirmed: 9976
       Deaths: 169
@@ -711,6 +741,11 @@ Country:
       Recovered: 22
       Existing: 1731
   Thailand:
+    - Date: 2020-04-03
+      Confirmed: 1978
+      Deaths: 19
+      Recovered: 581
+      Existing: 1378
     - Date: 2020-04-02
       Confirmed: 1875
       Deaths: 15
